@@ -1,2 +1,2 @@
-## Documentação Angular Fire🔥
+## Angular Fire🔥
 ### Índice
