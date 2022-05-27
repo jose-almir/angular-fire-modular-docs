@@ -1,5 +1,6 @@
 ## Índice
  1. [Criar conta de usuário com email e senha](#createuserwithemailandpassword)
+ 1. [Usuário logado](#authstate)
 
 ### createUserWithEmailAndPassword
 Assinatura do método:
@@ -35,3 +36,6 @@ this.authService.signupWithEmailAndPassword("example@gmail.com", "123456789")
 });
 ```
 A partir deste comportamento é possível repassar feedbacks para o usuário do ocorrido, e até mesmo mostrar com mais exatidão qual erro ocorreu no processo de cadastro.
+
+### authState
+Este é um observable útil para indicar o estado de autenticação do firebase: se o usuário está logado ou não.
