@@ -4,4 +4,6 @@
  3. [Storage](./storage.html)
 
 ### Instalação e configuração
-<strong><pre>ng add @angular/fire</pre></strong>
+```
+ng add @angular/fire
+```
