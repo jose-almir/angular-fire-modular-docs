@@ -1,2 +1,4 @@
 theme: jekyll-theme-dinky
 title: Angular Fire🔥
+plugins:
+  - jekyll-seo-tag
